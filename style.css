@@ -154,6 +154,8 @@ main p, main ul {
 .hero-video {
   flex: 1;
   min-width: 280px;
+  border-radius: 16px;
+  overflow: hidden;
 }
 
 /* Highlight Section */
